@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phperf/cli-spark": "^1.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "jdrieghe/array-helpers": "^0.2.0"
+    }
+}
